@@ -9,7 +9,7 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     background-color: #3B6E86; 
     background-image: linear-gradient(to bottom, #3B6E86, #ffffff, #3B6E86); 
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;;
     background-attachment: fixed; 
     color: #262626;
     min-height: 100vh;

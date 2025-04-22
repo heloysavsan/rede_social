@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const signupForm = document.querySelector('.signup-form')
     const togglePassword = document.querySelector('.toggle-password')
     const fbLoginBtn = document.querySelector('.fb-login')
-    const forgotPasswordLink = document.querySelector('.forgot-password')
+    const forgotPasswordLink = document.querySelector('.forgot-password');
 
     const setupPasswordToggle = () => {
         const passwordInput = document.querySelector('#password')
